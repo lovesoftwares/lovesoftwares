@@ -31,8 +31,8 @@ Kendi projelerimi geliştiriyor, yeni teknolojiler deniyor ve öğrendiklerimi p
 ---
 
 ## 📊 GitHub İstatistiklerim
-![Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=lovesoftwares&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovesoftwares&layout=compact&theme=radical)  
 
 ---
 
@@ -42,4 +42,3 @@ Kendi projelerimi geliştiriyor, yeni teknolojiler deniyor ve öğrendiklerimi p
 > Açık kaynak dünyasına katkıda bulunmayı çok seviyorum 🌍  
 
 ---
-⭐️ Kendine özel hale getirmeyi unutma!  
