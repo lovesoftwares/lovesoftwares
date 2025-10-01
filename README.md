@@ -5,13 +5,6 @@ Kendi projelerimi geliştiriyor, yeni teknolojiler deniyor ve öğrendiklerimi p
 
 ---
 
-## 🌐 Sosyal Medya
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin-linkin)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter-linkin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](portfolio-linkin)  
-
----
-
 ## 🛠️ Kullandığım Teknolojiler
 ### 💻 Frontend  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
