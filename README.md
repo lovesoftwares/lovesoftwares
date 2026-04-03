@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Arda]  
+# 👋 Merhaba, ben Çınar 
 
 🚀 **Full-Stack Developer | Açık Kaynak Tutkunu | Sürekli Öğrenen**  
 Kendi projelerimi geliştiriyor, yeni teknolojiler deniyor ve öğrendiklerimi paylaşmayı seviyorum.  
