@@ -1,41 +1,46 @@
-# Selam! Ben Çınar 👋
+# Selam! Ben Çınar 👋 (lovesoftwares)
 
-### Discord Bot Geliştiricisi & Yazılım Meraklısı
+### 🤖 Discord Bot Developer & Tech Enthusiast
 
-Merhaba! Ben Çınar. Discord ekosistemine olan tutkumla, toplulukları daha dinamik ve eğlenceli hale getiren botlar geliştiriyorum. Kod yazarken hem öğrenmeyi hem de üretmeyi seviyorum.
-
----
-
-### 🛠️ Kullandığım Teknolojiler
-
-Daha çok bot geliştirme odaklı araçlar ve diller üzerinde yoğunlaşıyorum:
-
-* **Diller:** Python, JavaScript (Node.js)
-* **Kütüphaneler:** Discord.js, Discord.py, Nextcord
-* **Veritabanı:** MongoDB, Quick.db, SQLite
-* **Araçlar:** VS Code, Git, GitHub, Glitch/Replit
+Discord sunucularını daha işlevsel ve eğlenceli hale getirmek için botlar geliştiriyorum. Kod yazmayı, yeni sistemler kurgulamayı ve topluluk projelerinde yer almayı seviyorum.
 
 ---
 
-### 🚀 Neler Yapıyorum?
+### 🛠️ Teknolojiler & Araçlar
 
-* 🤖 **Gelişmiş Moderasyon Botları:** Sunucuları güvende tutan sistemler.
-* 🎮 **Eğlence & Ekonomi Sistemleri:** Kullanıcı etkileşimini artıran oyunlar.
-* 📊 **İstatistik & Loglama:** Sunucu trafiğini takip eden detaylı araçlar.
-* 🌐 **Web Dashboard:** Botlar için kullanıcı dostu yönetim panelleri (yakında!).
+| Alan | Kullandığım Araçlar |
+| :--- | :--- |
+| **Diller** | Python, JavaScript (Node.js) |
+| **Kütüphaneler** | Discord.js, Discord.py |
+| **Veritabanı** | MongoDB, SQLite, Quick.db |
+| **Editör & Araçlar** | VS Code, Git, GitHub |
+
+---
+
+### 🚀 Neler Üzerinde Çalışıyorum?
+
+* 🛡️ **Gelişmiş Koruma:** Sunucuları saldırılardan koruyan güvenlik sistemleri.
+* 🎭 **Roleplay & Ekonomi:** Discord içi gelişmiş ekonomi botları.
+* 📈 **Analiz:** Sunucu büyümesini takip eden log sistemleri.
 
 ---
 
 ### 📊 GitHub İstatistiklerim
 
-![Çınar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovesoftwares&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovesoftwares&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lovesoftwares&show_icons=true&theme=radical" alt="lovesoftwares Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovesoftwares&layout=compact&theme=radical" alt="Top Langs" height="150" />
+</p>
 
 ---
 
-### 📫 Bana Ulaşın
+### 📱 İletişim
 
-Eğer bir projeniz varsa veya sadece selam vermek isterseniz:
+Projelerim hakkında konuşmak veya iş birliği yapmak için bana ulaşabilirsin:
 
-* **Discord:** ralkus
-* **Instagram:** @ralkus0
+* **Discord:** `ralkus`
+* **Instagram:** [@ralkus0](https://instagram.com/ralkus0)
+
+---
+
+> "Kod yazmak, hayalleri gerçeğe dönüştürmenin en kısa yoludur." 💻✨
