@@ -28,8 +28,8 @@ Daha çok bot geliştirme odaklı araçlar ve diller üzerinde yoğunlaşıyorum
 
 ### 📊 GitHub İstatistiklerim
 
-![Çınar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_KULLANICI_ADIN&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_KULLANICI_ADIN&layout=compact&theme=tokyonight)
+![Çınar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lovesoftwares&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lovesoftwares&layout=compact&theme=tokyonight)
 
 ---
 
